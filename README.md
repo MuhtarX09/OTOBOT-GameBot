@@ -1,4 +1,6 @@
 # OTOBOT-GameBot
+Bu proje, tamamen eğitim amaçlı olarak Mobile2 Global adlı oyuna yönelik, C++ ile geliştirilmiş bir oyun botudur.  
+Bu repoda yalnızca arayüz paylaşılmıştır.
 
 ## Genel
 ![Arayüz Genel](images/1_genel.png)
